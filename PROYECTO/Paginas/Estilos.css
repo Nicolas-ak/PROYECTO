@@ -1,0 +1,52 @@
+    
+.Rectangulo{
+    position: relative;
+    width: 994px;
+    height: 300px;
+    left: 285px;
+    top: 145px;
+    background: rgba(196, 196, 196, 0.85);
+    border-radius: 25px;
+    font-family: NATS;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    overflow: hidden;
+    color: rgba(63, 61, 61, 0.5) ;
+    
+}
+
+.fondo{
+    width: 1627px;
+    height: 1250px;
+    position: -ms-page;
+    background-image: url(../fondo\ coche.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+    
+}
+.pie-de-pagina{
+    position: absolute;
+    width: 1627px;
+    height: 94px;
+    
+    
+    background: rgba(255, 69, 57, 0.65);  
+      
+}
+a{
+    font-family: Nico Moji;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+color: #000000;
+
+}
+
+
+.registrarse{
+   
+}
